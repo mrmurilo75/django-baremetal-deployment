@@ -20,8 +20,10 @@ Set the values of the varibales at the top of the script (`NEW_USER`, `SSH_PORT`
 **(Optional)** Paste your SSH public key into `SSH_PUBLIC_KEY` to have the script automatically install it. Otherwise, plan to add it manually.
 
 ```bash
-nano setup.sh
+vi setup.sh
 ```
+
+> CAUTION: If you are not confortable with ViM commands, install another editor.
 
 ### 3. Run the script
 
