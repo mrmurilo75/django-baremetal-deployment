@@ -28,8 +28,8 @@ vi setup.sh
 ### 3. Run the script
 
 ```bash
-chmod +x setup_server.sh
-sudo ./setup_server.sh
+chmod +x setup.sh
+sudo ./setup.sh
 ```
 
 ### 4. Restart your SSH connection (Optional) 
